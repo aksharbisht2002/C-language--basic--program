@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610806612 source:a:\c++programs\sizeopertors\main.c
+	<stdio.h>
+	<stdlib.h>
+

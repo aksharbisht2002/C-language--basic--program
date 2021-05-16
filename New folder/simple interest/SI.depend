@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1609860620 source:a:\c++programs\si\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1609860879 source:a:\c++programs\aksharbisht01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1610637145 source:a:\c  programs paractical\aksharbisht01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

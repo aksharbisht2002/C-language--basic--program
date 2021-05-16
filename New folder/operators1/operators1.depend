@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610162695 source:a:\c++programs\operators1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1610634510 source:a:\c  programs paractical\operators1\main.c
+	<stdio.h>
+	<stdlib.h>
+
